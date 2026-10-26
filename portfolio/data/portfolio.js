@@ -88,6 +88,15 @@ const portfolioData = {
             image: "assets/projects/spotify-clustering.svg",
             github: "https://github.com/Subhankar999/Music-Clustering-project.git",
             live: "https://music-clustering-project-ubjfazqlhqeappy4v836gbn.streamlit.app/"
+        },
+           {
+            title: "Duplicate Question Predictor",
+            category: "Machine Learning",
+            description: "Supervised Classification model that can classify duplicate and non duplicate questions .",
+            technologies: ["Python", "Pandas","Numpy", "Scikit-learn","NLP"],
+            image: "assets/projects/spotify-clustering.svg",
+            github: "https://github.com/Subhankar999/Music-Clustering-project.git",
+            live: "https://music-clustering-project-ubjfazqlhqeappy4v836gbn.streamlit.app/"
         }
     ],
 

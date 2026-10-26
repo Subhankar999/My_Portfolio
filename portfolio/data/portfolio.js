@@ -94,7 +94,7 @@ const portfolioData = {
             category: "Machine Learning",
             description: "Supervised Classification model that can classify duplicate and non duplicate questions .",
             technologies: ["Python", "Pandas","Numpy", "Scikit-learn","NLP"],
-            image: "assets/projects/spotify-clustering.svg",
+            image: "portfolio/assets/projects/duplicate_questions.png",
             github: "https://github.com/Subhankar999/Duplicate-question-prediction.git",
             live: "https://duplicate-question-prediction-jfbi7qxigwv55dfotnfxxt.streamlit.app/"
         }

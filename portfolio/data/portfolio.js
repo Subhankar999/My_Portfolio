@@ -93,11 +93,12 @@ const portfolioData = {
             title: "Duplicate Question Predictor",
             category: "Machine Learning",
             description: "Supervised Classification model that can classify duplicate and non duplicate questions .",
-            technologies: ["Python", "Pandas","Numpy", "Scikit-learn","NLP"],
+            technologies: ["Python", "Pandas","Numpy", "Scikit-learn","NLP", "streamlit"],
             image: "assets/projects/duplicate_detector.svg",
             github: "https://github.com/Subhankar999/Duplicate-question-prediction.git",
             live: "https://duplicate-question-prediction-jfbi7qxigwv55dfotnfxxt.streamlit.app/"
-        }
+        },
+       
     ],
 
     education: [

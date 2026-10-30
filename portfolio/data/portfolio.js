@@ -104,7 +104,7 @@ const portfolioData = {
             category: "Machine Learning",
             description: "An Email Spam Classification System built using Natural Language Processing (NLP) and Machine Learning to classify emails as Spam or Not Spam (Ham)",
             technologies: ["Python", "Pandas","Numpy", "Scikit-learn","NLP", "streamlit"],
-            image: "assets/projects/email_spam_classifier",
+            image: "assets/projects/email_spam_classifier.svg",
             github: "https://github.com/Subhankar999/Email-Spam-classification-using-NLP.git",
             live: "https://email-spam-classification-using-nlp-bjebaedipmb5jwebd7ldbj.streamlit.app/"
         }

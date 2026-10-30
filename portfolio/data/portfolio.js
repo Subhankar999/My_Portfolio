@@ -98,6 +98,16 @@ const portfolioData = {
             github: "https://github.com/Subhankar999/Duplicate-question-prediction.git",
             live: "https://duplicate-question-prediction-jfbi7qxigwv55dfotnfxxt.streamlit.app/"
         },
+
+        {
+            title: "Email Spam Classification Using NLP",
+            category: "Machine Learning",
+            description: "An Email Spam Classification System built using Natural Language Processing (NLP) and Machine Learning to classify emails as Spam or Not Spam (Ham)",
+            technologies: ["Python", "Pandas","Numpy", "Scikit-learn","NLP", "streamlit"],
+            image: "",
+            github: "",
+            live: "https://email-spam-classification-using-nlp-bjebaedipmb5jwebd7ldbj.streamlit.app/"
+        }
        
     ],
 
